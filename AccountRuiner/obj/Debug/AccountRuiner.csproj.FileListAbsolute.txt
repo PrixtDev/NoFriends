@@ -1,0 +1,12 @@
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\AccountRuiner.exe.config
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\AccountRuiner.exe
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\AccountRuiner.pdb
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\Anarchy.dll
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\obj\Debug\AccountRuiner.csprojAssemblyReference.cache
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\obj\Debug\AccountRuiner.csproj.CoreCompileInputs.cache
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\obj\Debug\AccountRuiner.csproj.CopyComplete
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\obj\Debug\AccountRuiner.exe
+C:\Users\jensc\source\repos\AccountRuiner\AccountRuiner\obj\Debug\AccountRuiner.pdb
