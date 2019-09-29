@@ -39,7 +39,6 @@ namespace AccountRuiner
 
         private static void Client_OnLoggedIn(DiscordSocketClient client, LoginEventArgs args)
         {
-            
             Console.WriteLine("How Many Guilds? (Max is 100)");
             int guilds = int.Parse(Console.ReadLine());
             Console.Clear();
@@ -107,7 +106,9 @@ namespace AccountRuiner
                 catch { }
             }
 
-            new WebClient().DownloadFile("https://cdn.discordapp.com/attachments/624408319372820500/627529053884383240/Anarchy.png", "face.png");
+            WebClient wc = new WebClient();
+            wc.DownloadFile("https://cdn.discordapp.com/attachments/624408319372820500/627529053884383240/Anarchy.png", "face.png");
+            wc.Dispose();
 
             for (int i = 1; i <= guilds; i++)
             {
